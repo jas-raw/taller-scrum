@@ -31,7 +31,7 @@ boton.addEventListener("click", function(e){
             }
 
            if(confirm("El usuario identificado con: "+c+" con el vehiculo marca: "+a+" de modelo "+b+ " Facturo un servicio por: $"+costo)){
-            window.location.href = "https://professor-falken.com"
+            window.location.href = "agradecimiento.html"
            }
       
     }
